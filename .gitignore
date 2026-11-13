@@ -1,0 +1,18 @@
+### IntelliJ IDEA / NetBeans ###
+out/
+build/
+.idea/
+*.iml
+nbproject/private/
+dist/
+nbbuild/
+
+### Compiled classes ###
+*.class
+
+### Generated data files ###
+courses.txt
+
+### OS files ###
+.DS_Store
+Thumbs.db
